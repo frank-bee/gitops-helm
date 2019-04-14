@@ -14,5 +14,5 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: bee0000/podinfo:0.4.11
+    image: bee0000/podinfo:0.4.111
     replicaCount: 3
