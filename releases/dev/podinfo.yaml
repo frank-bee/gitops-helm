@@ -14,6 +14,6 @@ spec:
     ref: master
   values:
     image: bee0000/podinfo:dev-wx0t2ti1
-    replicaCount: 1
+    replicaCount: 2
     hpa:
       enabled: false
