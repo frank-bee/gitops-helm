@@ -1,0 +1,1 @@
+{"jobID":"13851e3a-83f2-0428-a1e0-bd115d62a25d","spec":{"type":"policy","cause":{"Message":"","User":"Frank Bee \u003cfrank.bernhardt@etas.com\u003e"},"spec":{"dev:helmrelease/podinfo-dev":{"add":{"automated":"true"},"remove":null}}},"result":null}
